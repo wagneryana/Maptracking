@@ -1,0 +1,3 @@
+tocTab[tocTab.length] = new Array("1.1.3.1.2.4:1", "", "seguimiento_view.py", "EARoot/EA1/EA1/EA3/EA1/EA2/EA4/EA94.html", "175.png", "65", "0", "", "Logical diagram0","{201464A9-A9AF-4bea-8BC0-630F9FB065E6}");
+tocTab[tocTab.length] = new Array("1.1.3.1.2.4:2", "", "SeguimientoSerializer", "EARoot/EA1/EA1/EA3/EA1/EA2/EA4/EA96.html", "5.png", "354", "0", "", "Class0","{EBDE9693-675C-4c6d-8060-EFB96F41F095}");
+tocTab[tocTab.length] = new Array("1.1.3.1.2.4:3", "", "SeguimientoViewSet", "EARoot/EA1/EA1/EA3/EA1/EA2/EA4/EA97.html", "5.png", "353", "0", "", "Class0","{B461D241-E65C-4573-B3D9-7522A99BF840}");

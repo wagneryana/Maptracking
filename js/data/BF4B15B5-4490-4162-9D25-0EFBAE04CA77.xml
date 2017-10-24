@@ -1,0 +1,15 @@
+tocTab[tocTab.length] = new Array("1.1.1:1", "", "Vista de Despliegue", "EARoot/EA1/EA1/EA1/EA23.html", "179.png", "91", "0", "", "Deployment diagram0","{4239FD23-7A8F-448a-A0FB-33C9DD83170B}");
+tocTab[tocTab.length] = new Array("1.1.1:2", "", "Computadora", "EARoot/EA1/EA1/EA1/EA26.html", "191.png", "819", "0", "", "Device0","{31AE5911-862F-44cd-B728-D3E0BF7BCED6}");
+tocTab[tocTab.length] = new Array("1.1.1:3", "", "Django project", "EARoot/EA1/EA1/EA1/EA27.html", "9.png", "808", "0", "", "Node0","{10FCD5FC-54E8-4d77-8A95-565892FB035F}");
+tocTab[tocTab.length] = new Array("1.1.1:4", "", "Postgres", "EARoot/EA1/EA1/EA1/EA29.html", "9.png", "806", "0", "", "Node0","{7182E6C1-D8C5-43ef-AE67-F199070D0E06}");
+tocTab[tocTab.length] = new Array("1.1.1:5", "", "React - Redux", "EARoot/EA1/EA1/EA1/EA30.html", "9.png", "817", "0", "", "Node0","{5DBFA8DD-A599-49cd-A31F-833FC5D2E590}");
+tocTab[tocTab.length] = new Array("1.1.1:6", "", "Reducers", "EARoot/EA1/EA1/EA1/EA32.html", "9.png", "812", "0", "", "Node0","{01023CAE-7F9C-4b24-87B4-C40D16D8107C}");
+tocTab[tocTab.length] = new Array("1.1.1:7", "", "Django Rest Framework", "EARoot/EA1/EA1/EA1/EA33.html", "9.png", "807", "808", "", "Node0","{3281FBB2-D001-4aa0-AC99-91FEA32D46F5}");
+tocTab[tocTab.length] = new Array("1.1.1:10", "", "Rect - View", "EARoot/EA1/EA1/EA1/EA36.html", "9.png", "814", "817", "", "Node0","{972B88B5-89A7-43bc-9648-8A3F6C3A9576}");
+tocTab[tocTab.length] = new Array("1.1.1:11", "", "Redux - Store", "EARoot/EA1/EA1/EA1/EA37.html", "9.png", "810", "817", "", "Node0","{2C0E09D1-36D3-4610-8EFA-B16019F6271D}");
+tocTab[tocTab.length] = new Array("1.1.1:12", "", "Navegador web", "EARoot/EA1/EA1/EA1/EA38.html", "9.png", "818", "819", "", "Node0","{879CAFDB-0A22-43c3-9699-0FB015B460B0}");
+tocTab[tocTab.length] = new Array("1.1.1:8", "", "Dispatcher", "EARoot/EA1/EA1/EA1/EA34.html", "9.png", "813", "810", "", "Node0","{C2735C93-DDF5-4fb6-BAC1-6A0CA90B3933}");
+tocTab[tocTab.length] = new Array("1.1.1:9", "", "State", "EARoot/EA1/EA1/EA1/EA35.html", "9.png", "811", "810", "", "Node0","{F3A45483-9DB6-489a-A539-40F183505F95}");
+tocTab[tocTab.length] = new Array("1.1.1.1", "", "Actions Creator", "EARoot/EA1/EA1/EA1/EA25.html", "4.png", "", "", "{3508EC18-A3D6-4c2c-92B8-A2CE5FE7E2E4}", "Package");
+tocTab[tocTab.length] = new Array("1.1.1.2", "", "django Rest Serializer", "EARoot/EA1/EA1/EA1/EA28.html", "4.png", "", "", "{DC0522C3-5507-4204-8A4B-4DFE8E27AA68}", "Package");
+tocTab[tocTab.length] = new Array("1.1.1.3", "", "Reducer", "EARoot/EA1/EA1/EA1/EA31.html", "4.png", "", "", "{DC7834FB-558D-4505-9EEB-332A26895427}", "Package");

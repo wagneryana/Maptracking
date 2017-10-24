@@ -1,0 +1,3 @@
+tocTab[tocTab.length] = new Array("1.1.3.1.2.3:1", "", "modulo_view.py", "EARoot/EA1/EA1/EA3/EA1/EA2/EA3/EA90.html", "175.png", "64", "0", "", "Logical diagram0","{B9499874-4B97-4824-B5C0-78BEA091BD67}");
+tocTab[tocTab.length] = new Array("1.1.3.1.2.3:2", "", "ModuloSerializer", "EARoot/EA1/EA1/EA3/EA1/EA2/EA3/EA92.html", "5.png", "349", "0", "", "Class0","{4C322F9B-7C13-4d64-BC13-F2CEF0573B88}");
+tocTab[tocTab.length] = new Array("1.1.3.1.2.3:3", "", "ModuloViewSet", "EARoot/EA1/EA1/EA3/EA1/EA2/EA3/EA93.html", "5.png", "350", "0", "", "Class0","{696FFDD2-D312-499c-ABD5-85511D53322F}");

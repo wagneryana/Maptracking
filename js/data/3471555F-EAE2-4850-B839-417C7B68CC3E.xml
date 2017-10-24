@@ -1,0 +1,12 @@
+tocTab[tocTab.length] = new Array("1.1.3.2.1:1", "", "Estructura Perfil/models", "EARoot/EA1/EA1/EA3/EA2/EA1/EA102.html", "175.png", "45", "0", "", "Logical diagram0","{4637C315-71BC-4fda-A56B-3691710A6F7C}");
+tocTab[tocTab.length] = new Array("1.1.3.2.1:2", "", "Catalogo_perfil", "EARoot/EA1/EA1/EA3/EA2/EA1/EA104.html", "5.png", "618", "0", "", "Class0","{2B590F91-BDA1-4827-BE9A-01748FF734C1}");
+tocTab[tocTab.length] = new Array("1.1.3.2.1:3", "", "Campus", "EARoot/EA1/EA1/EA3/EA2/EA1/EA105.html", "5.png", "250", "0", "", "Class0","{1C4F0337-179A-4f1a-9EF9-D7F99E411CD3}");
+tocTab[tocTab.length] = new Array("1.1.3.2.1:4", "", "Carrera", "EARoot/EA1/EA1/EA3/EA2/EA1/EA106.html", "5.png", "257", "0", "", "Class0","{D9768AF7-610F-46d3-BF5A-3CDA2BDADE35}");
+tocTab[tocTab.length] = new Array("1.1.3.2.1:5", "", "Competencia_general", "EARoot/EA1/EA1/EA3/EA2/EA1/EA107.html", "5.png", "259", "0", "", "Class0","{F1E282F5-5DFC-411c-80D8-5D1F09EB6D0F}");
+tocTab[tocTab.length] = new Array("1.1.3.2.1:6", "", "Criterios_desempeño", "EARoot/EA1/EA1/EA3/EA2/EA1/EA108.html", "5.png", "258", "0", "", "Class0","{EB3A3BDC-36E6-42ce-9F2E-5CF48A0625CB}");
+tocTab[tocTab.length] = new Array("1.1.3.2.1:7", "", "Elementos_competencia", "EARoot/EA1/EA1/EA3/EA2/EA1/EA109.html", "5.png", "254", "0", "", "Class0","{984ED6F0-A0FA-4fb1-B3E1-BC3C198072F0}");
+tocTab[tocTab.length] = new Array("1.1.3.2.1:8", "", "Escuela", "EARoot/EA1/EA1/EA3/EA2/EA1/EA110.html", "5.png", "253", "0", "", "Class0","{63352765-BBF1-4997-89D8-6A050B076228}");
+tocTab[tocTab.length] = new Array("1.1.3.2.1:9", "", "Facultad", "EARoot/EA1/EA1/EA3/EA2/EA1/EA111.html", "5.png", "252", "0", "", "Class0","{30D2161A-0EF3-4a13-9234-67B343E47892}");
+tocTab[tocTab.length] = new Array("1.1.3.2.1:10", "", "Logro_competencia", "EARoot/EA1/EA1/EA3/EA2/EA1/EA112.html", "5.png", "251", "0", "", "Class0","{1F69AE14-2ADD-4077-8400-C124354DAB2C}");
+tocTab[tocTab.length] = new Array("1.1.3.2.1:11", "", "Perfil", "EARoot/EA1/EA1/EA3/EA2/EA1/EA113.html", "5.png", "256", "0", "", "Class0","{D973EA1A-703A-4689-952B-324BB574C8CC}");
+tocTab[tocTab.length] = new Array("1.1.3.2.1:12", "", "Unidad_competencia", "EARoot/EA1/EA1/EA3/EA2/EA1/EA114.html", "5.png", "255", "0", "", "Class0","{C540EA5A-63D4-4b29-A74E-5048106B95F2}");

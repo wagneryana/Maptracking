@@ -1,0 +1,3 @@
+tocTab[tocTab.length] = new Array("1.1.3.1.1.3:1", "", "competencia_view.py", "EARoot/EA1/EA1/EA3/EA1/EA1/EA3/EA68.html", "175.png", "55", "0", "", "Logical diagram0","{7131239F-1B99-437a-9B84-3AB15998B3FB}");
+tocTab[tocTab.length] = new Array("1.1.3.1.1.3:2", "", "CompetenciaSerializer", "EARoot/EA1/EA1/EA3/EA1/EA1/EA3/EA70.html", "5.png", "314", "0", "", "Class0","{AD2425C6-A24B-4bcc-9EFB-5942C3EF276A}");
+tocTab[tocTab.length] = new Array("1.1.3.1.1.3:3", "", "CompetenciaViewSet", "EARoot/EA1/EA1/EA3/EA1/EA1/EA3/EA71.html", "5.png", "313", "0", "", "Class0","{86276C17-F92A-483d-A348-1025F1FB4B7B}");
